@@ -1,7 +1,32 @@
 /* Give your page a fun background color */
-
+body{
+    background-color: black;
+}
 /* Make the header and footer a different color from the background */
+h1{color: #45223b;
+background-color: #dd7029;
+font-size: 30px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-align: center ;
+}
 
+.list{
+    color: #ffbd00;
+}
+
+.img{
+    border: 15px soild #61e793;}
+
+.quote {
+    color: #dd7029;
+    position: fixed;
+    left: 10px;
+    bottom: 5px;
+    right: 10px;
+    width: 95%;
+    background-color: #45223b;
+    text-align: center;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
