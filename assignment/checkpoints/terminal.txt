@@ -18,8 +18,8 @@
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 
-	nothing
-
+	if the folder did not have files it would be blank, if it has files and or folders it would list those
+	
 # 6 - What is a quick way to create a new file?
 
 	touch filename.fileextension
